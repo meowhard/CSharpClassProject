@@ -7,4 +7,7 @@ namespace Lunch.Models
         public List<PersonViewModel> People { get; set; }
         public int TotalPeople { get; set; }
     }
+
+
 }
+
